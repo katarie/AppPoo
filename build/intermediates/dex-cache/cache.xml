@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\bcc415ae85bc4ac2bbe1905d1a994927e931b512\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faa40f5ad1795f229c0598395b8c3ea097be12ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\3e2417039478a85442665ac5db975f9a7e01caeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d61cbe6bc5eddec517489c1f9c3c7de28ed1b850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_16426dd15a8077e5b9d9b1199ec78f3014f710d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\775418d39c783667cf8e6e5fb41b6feb24a97f92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_714f7bd0535a58f17f121a4364300b5eac3187a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c165c13226f8fe8ca9a4994899ca1269f5948302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\d3d39ebd28f167310f34a3b230dea61d4d591268\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4314560a5a8f6490c867b89af58f2f57aa7c5f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c4c190f3a63025b21ca83d73b5cdc32c092a04c">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d2079bfffb0c515feec07e8f714d10d5934c310b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\a8644cc1e0e3dc7d0c923f71f22dae42b0c58e97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4aa36a7d725c0e8f83baa324d7c7e92e003c88f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\92507e968dd4aeb0f520014117221708aa03cd79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2939e94f8d69bc26179137e514cb5add9f265bf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\198052c6b3900aaa3a35e2f5e50289ee202817f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56694df739891d0721a2d1d68137b53a8ae6d08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\6007ef84207c9e7c73c645b67d3caaf0d7692cf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dda5f9df283b6f8c2ae137e4870124f17d6840b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\3349bffb1f00ceceb05ab77ede99c2a8603aa894\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\katarie\Documents\WCS\AppPOO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36e612586bb94c7585bc0822aabe46baef0a9765\classes.dex" />
+    </item>
+
+</items>
